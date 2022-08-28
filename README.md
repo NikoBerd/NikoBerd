@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NikoBerd
-- 👀 I’m interested in iOS development
-- 🌱 I’m currently learning iOS
-- 💞️ I’m looking to collaborate on any iOS-related project
+I'm a motivated beginner in iOS development with some experience building simple and elegant apps. 
+
+Looking for an opportunity to grow iOS development skills in an innovative environment.
+
 - 📫 How to reach me: 
       Discord - Niko Berd#5088, 
-      LinkedIn - www.linkedin.com/in/niko-berdzenishvili
+      LinkedIn - https://www.linkedin.com/in/niko-berd/
       
