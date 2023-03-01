@@ -19,7 +19,7 @@
 <h2>✒️ Github Stats</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikoberd" alt="nikoberd" height = 100% /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikoberd&show_icons=true&locale=en&layout=compact" alt="nikoberd" height = 50% /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikoberd&show_icons=true&locale=en&layout=compact" alt="nikoberd" height = 100% /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikoberd&show_icons=true&locale=en" alt="nikoberd" /></p>
 
