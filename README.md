@@ -16,6 +16,10 @@
 </ul>
 <h2>✒️ Recent Posts</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikoberd&label=Profile%20views&color=0e75b6&style=flat" alt="nikoberd" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikoberd" alt="nikoberd" /></a> </p>
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoBerd&hide_border=true&layout=compact" align="center" /></div>  
 
 <img src="https://github-readme-stats.vercel.app/api?username=NikoBerd&show_icons=true&count_private=true&hide_border=true" align="left" />  
