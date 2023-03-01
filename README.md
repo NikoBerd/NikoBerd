@@ -14,8 +14,6 @@
 <li>📙 Check out my <a href="https://www.linkedin.com/posts/niko-berd_curriculum-vitae-activity-7034219829901336577-8hgc?utm_source=share&utm_medium=member_desktop">resume</a>.</li>
 </ul>
 <h2>✒️ Github Stats</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikoberd&label=Profile%20views&color=0e75b6&style=flat" alt="nikoberd" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikoberd" alt="nikoberd" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
