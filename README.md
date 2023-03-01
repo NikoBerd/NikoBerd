@@ -2,7 +2,7 @@
 
 <div align="left">I'm a motivated beginner in iOS development with some experience building simple and elegant apps. Looking for an opportunity to grow iOS development skills in an innovative environment.🌁</div>  
 
-<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img align="flex" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 
 # 💫 About Me:
