@@ -21,9 +21,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NikoBerd&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-  
-  <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
-
+<br>  
+<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NikoBerd&icon=1&color=0)](https://visitcount.itsvg.in)
