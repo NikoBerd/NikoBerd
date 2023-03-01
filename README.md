@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=NikoBerd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NikoBerd&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoBerd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height = 150 />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
 ## 🏆 GitHub Trophies
