@@ -1,4 +1,7 @@
-<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/niko-berd/">Niko Berdzenishvili</a></h2>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+<h2>I'm <a href="https://www.linkedin.com/in/niko-berd/">Niko Berdzenishvili</a></h2>
 
 I'm a motivated beginner in iOS development with some experience building simple and elegant apps. Looking for an opportunity to grow iOS development skills in an innovative environment.🌁
 
