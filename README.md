@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm <a href="https://www.linkedin.com/in/niko-berd/">Niko Berdzenishvili</a></h1>
 <h3 align="left">A passionate iOS developer from Georgia</h3>
 
-### <div align="center">I'm a motivated beginner in iOS development with some experience building simple and elegant apps. Looking for an opportunity to grow iOS development skills in an innovative environment.🌁</div>  
+<div align="left">I'm a motivated beginner in iOS development with some experience building simple and elegant apps. Looking for an opportunity to grow iOS development skills in an innovative environment.🌁</div>  
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
@@ -16,3 +16,11 @@
 </ul>
 <h2>✒️ Recent Posts</h2>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikoberd&show_icons=true&locale=en&layout=compact" alt="nikoberd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikoberd&show_icons=true&locale=en" alt="nikoberd" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikoberd&" alt="nikoberd" /></p>
