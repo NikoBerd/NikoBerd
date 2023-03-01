@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 10%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 10%" />
 </div>  
 <h2>I'm <a href="https://www.linkedin.com/in/niko-berd/">Niko Berdzenishvili</a></h2>
 
