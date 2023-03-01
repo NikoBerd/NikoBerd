@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm <a href="https://www.linkedin.com/in/niko-berd/">Niko Berdzenishvili</a></h1>
 
-<div align="left">I'm a motivated beginner in iOS development with some experience building simple and elegant apps. Looking for an opportunity to grow iOS development skills in an innovative environment.🌁
+<div align="left">I'm a motivated beginner in iOS development with some experience building simple and elegant apps. Looking for an opportunity to grow iOS development skills in an innovative environment.🌁</div>  
+
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-</div>  
 
 
 # 💫 About Me:
