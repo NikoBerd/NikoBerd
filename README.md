@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm <a href="https://www.linkedin.com/in/niko-berd/">Niko Berdzenishvili</a></h1>
 
-<div align="left">I'm a motivated beginner in iOS development with some experience building simple and elegant apps. I am eager to find a company that values learning and growth, where I can work with experienced developers and gain hands-on experience in the field. I am a quick learner and a team player, and I am willing to put in the time and effort required to excel as an iOS developer. <br>
+<div align="left">I'm a motivated beginner in software development with some experience building simple and elegant apps. I am eager to find a company that values learning and growth, where I can work with experienced developers and gain hands-on experience in the field. I am a quick learner and a team player, and I am willing to put in the time and effort required to excel as an iOS developer. <br>
   
 # 💫 About Me:
 
-<ul></li><br><li>🧐 Learning <strong>Swift</strong>, <strong>SwiftUI</strong>, and a bit of <strong>ML</strong>.</li><br><li>👨‍💻 Most of my projects are available on <a href="https://github.com/NikoBerd">Github</a>.</li><br><li>📝 I regulary post updates/progress on <a href="https://www.linkedin.com/in/niko-berd/">LinkedIn</a>.</li><br><li>💬 Ping me about <strong>Swift, SwiftUI, ML, and literally anything else about iOS</strong>.</li><br><li>📙 Check out my <a href="https://www.linkedin.com/posts/niko-berd_curriculum-vitae-activity-7034219829901336577-8hgc?utm_source=share&utm_medium=member_desktop">resume</a>.</li><br></ul>
+<ul></li><br><li>🧐 Learning <strong>C#</strong>, <strong>Swift</strong>, and <strong>SwiftUI</strong>.</li><br><li>👨‍💻 Most of my projects are available on <a href="https://github.com/NikoBerd">Github</a>.</li><br><li>📝 I regulary post updates/progress on <a href="https://www.linkedin.com/in/niko-berd/">LinkedIn</a>.</li><br><li>💬 Ping me about <strong>Swift, SwiftUI, ML, and literally anything else about iOS</strong>.</li><br><li>📙 Check out my <a href="https://www.linkedin.com/posts/niko-berd_curriculum-vitae-activity-7034219829901336577-8hgc?utm_source=share&utm_medium=member_desktop">resume</a>.</li><br></ul>
   
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/niko.berdzenishvili.54/) 
