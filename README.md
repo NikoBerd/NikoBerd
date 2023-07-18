@@ -1,33 +1,18 @@
-<h1 align="left">Hi 👋, I'm Niko Berdzenishvili</h1>
-
-<div align="left">I'm a motivated beginner in software development with some experience building simple and elegant apps. I am eager to find a company that values learning and growth, where I can work with experienced developers and gain hands-on experience in the field. I am a quick learner and a team player, and I am willing to put in the time and effort required to excel as an iOS developer. <br>
-  
 # 💫 About Me:
+🔭 I’m currently working on:<br>I'm actively engaged in a Python Bootcamp course to enhance my programming skills and broaden my knowledge of the Python language.<br><br>👯 I’m looking to collaborate:<br>I'm interested in collaborating with fellow Python enthusiasts and learners who share a passion for coding and are eager to work on exciting projects together.<br><br>🌱 I’m currently learning:<br>As part of my Python Bootcamp course, I am delving into various aspects of Python programming, including data manipulation, web development, and creating efficient algorithms.<br><br>💬 Ask me about:<br>Feel free to ask me anything related to Python programming, whether it's about syntax, best practices, or tips for writing clean and efficient code. I'm here to help!<br><br>⚡ Fun fact:<br>Did you know that Python is named after the comedy group Monty Python, rather than the snake? Guido van Rossum, the creator of Python, was a fan of Monty Python's Flying Circus, which led to the language's unique name.
 
-<ul></li><br><li>🧐 Learning <strong>C#</strong>, <strong>Swift</strong>, and <strong>SwiftUI</strong>.</li><br><li>👨‍💻 Most of my projects are available on <a href="https://github.com/NikoBerd">Github</a>.</li><br><li>📝 I regulary post updates/progress on <a href="https://www.linkedin.com/in/niko-berd/">LinkedIn</a>.</li><br><li>💬 Ping me about <strong>Swift, SwiftUI, С#</strong>.</li><br><li>📙 Check out my <a href="https://www.linkedin.com/posts/niko-berd_curriculum-vitae-activity-7034219829901336577-8hgc?utm_source=share&utm_medium=member_desktop">resume</a>.</li><br></ul>
-  
-# 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/niko.berdzenishvili.54/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/berdzenishvili.niko/?fbclid=IwAR3nlXWJNSLxtI6v71o0NjCKY783V7pCTTWTAJBoJ0YqqFxf6hAg-Kvf6K8)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/niko-berd/) 
-
-<br>
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NikoBerd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NikoBerd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoBerd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=NikoBerd&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NikoBerd&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoBerd&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=NikoBerd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NikoBerd&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br>  
 <img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 <br>
-
----
-[![](https://visitcount.itsvg.in/api?id=NikoBerd&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
