@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm <a href="https://www.linkedin.com/in/niko-berd/">Niko Berdzenishvili</a></h1>
+<h1 align="left">Hi 👋, I'm Niko Berdzenishvili</h1>
 
 <div align="left">I'm a motivated beginner in software development with some experience building simple and elegant apps. I am eager to find a company that values learning and growth, where I can work with experienced developers and gain hands-on experience in the field. I am a quick learner and a team player, and I am willing to put in the time and effort required to excel as an iOS developer. <br>
   
